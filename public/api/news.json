@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Event 1",
+        "date": "2025-06-13",
+        "img": "https://picsum.photos/seed/event1/80/60"
+    },
+    {
+        "title": "Event 2",
+        "date": "2025-05-30",
+        "img": "https://picsum.photos/seed/event2/80/60"
+    },
+    {
+        "title": "Event 3",
+        "date": "2025-05-15",
+        "img": "https://picsum.photos/seed/event3/80/60"
+    },
+    {
+        "title": "Event 4",
+        "date": "2025-04-30",
+        "img": "https://picsum.photos/seed/event4/80/60"
+    },
+    {
+        "title": "Event 5",
+        "date": "2025-04-21",
+        "img": "https://picsum.photos/seed/event5/80/60"
+    }
+]

@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+:root {
+  --one-pink: #e6007e;
+  --gray-bg: #f4f4f4;
+  --text-dark: #111111;
+}
+
+body {
+  background-color: var(--gray-bg);
+  color: var(--text-dark);
+  font-family: 'Segoe UI', sans-serif;
+}
